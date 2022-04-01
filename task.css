@@ -1,0 +1,4 @@
+   /* Task 7 */
+   div:nth-of-type(1)>div:nth-child(5) {
+       color: red;
+   }
